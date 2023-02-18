@@ -3,4 +3,3 @@ I've used the accuweather weather api to fetch weather related data. I guess we 
 
 this app is also styled responsively to some extent.
 
-did you fr read all this ooof
